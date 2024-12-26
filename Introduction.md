@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eternity-Scripting
+- 👋 Hi, I’m @EternitCity
 - 👀 I’m interested in Cyber security and game designing
 - 🌱 I’m currently learning Java, Luau
 - 💞️ I’m looking to collaborate on improving CyberSecurity
